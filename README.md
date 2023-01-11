@@ -1,6 +1,8 @@
-### Hi there 👋
-
+### Average Linux enjoyer.
 <!--
+###  Hey! Im Cheeze   👋
+
+
 **Cheezik/Cheezik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +15,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+I am [REDACTED] And i "Code" for fun! ~~*or to run and hide form my problems*~~
+and i am proud average Linux enjoyer
+- Currently, i am not working on my own website! and really nothing else
+- 📖 I have some basic knowlage of JavaScript; and am *still* learning HTML, CSS, 
 -->
