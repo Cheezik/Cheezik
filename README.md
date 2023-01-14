@@ -1,5 +1,5 @@
 ### Average Linux enjoyer.
-Music enthusiast
+dnb enthusiast
 <!--
 ###  Hey! Im Cheeze   👋
 
