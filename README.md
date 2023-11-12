@@ -1,7 +1,7 @@
-# Average Linux enjoyer.
+# Mr. Cheeze
 ## - HTML, CSS 
-### - Learning: PHP, MySQL, JS
-
+## - Learning: PHP, MySQL, JS
+- typical linux enjoyer
 - dnb enthusiast
 
 <!--
