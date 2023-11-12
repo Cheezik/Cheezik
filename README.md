@@ -1,5 +1,9 @@
 ### Average Linux enjoyer.
-dnb enthusiast
+## - HTML, CSS 
+# - Learning: PHP, MySQL, JS
+
+- dnb enthusiast
+
 <!--
 ###  Hey! Im Cheeze   👋
 
