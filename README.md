@@ -1,6 +1,6 @@
 # Mr. Cheeze
-## - HTML, CSS 
-## - Learning: PHP, MySQL, JS
+### - HTML, CSS 
+### - Learning: PHP, MySQL, JS
 - typical linux enjoyer
 - dnb enthusiast
 
