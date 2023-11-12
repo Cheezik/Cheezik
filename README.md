@@ -1,6 +1,6 @@
-### Average Linux enjoyer.
+# Average Linux enjoyer.
 ## - HTML, CSS 
-# - Learning: PHP, MySQL, JS
+### - Learning: PHP, MySQL, JS
 
 - dnb enthusiast
 
