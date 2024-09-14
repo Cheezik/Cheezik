@@ -7,7 +7,7 @@
 Im am a small "dev" just doing things for the fun of it in my free time ^^ </br>
 altho be bewere! i might do something usefull someday
 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,linux)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,arch)](https://skillicons.dev)
  
 <details>
  
