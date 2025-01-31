@@ -1,6 +1,6 @@
 # Mr. Cheeze
  
-*everyone needs a bit of cheeziness in theirs lives dont they?*
+*we all needs a bit of cheeziness in our lives dont we?*
 
 
 
