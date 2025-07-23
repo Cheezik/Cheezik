@@ -8,6 +8,7 @@ Im am a small "dev" just doing things for the fun of it in my free time ^^ </br>
 trying to contribute to stuff i love. 
 
 Czech Translator for [SlimeVR](https://i18n.slimevr.dev/contributors/PGieDrpEdjyQq50Vh_Ju_oFHeks) and [Others](https://crowdin.com/profile/cheezik_)
+
 <sub>I might not know how to code, that wont stop me from helping with what i can. </sub>
 
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,arch)](https://skillicons.dev)
