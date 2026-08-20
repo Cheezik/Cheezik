@@ -12,7 +12,7 @@ Czech Translator for [SlimeVR](https://i18n.slimevr.dev/contributors/PGieDrpEdjy
 
 <sub>I might not know how to code, that wont stop me from helping with what i can. </sub>
 
- [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,linux,arch)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,ts,svelte,sqlite,css,linux,arch)](https://skillicons.dev)
  
 <details>
  
