@@ -1,16 +1,11 @@
 # Cheeze
  
 *we all needs a bit of cheeziness in our lives dont we?*
-
-
-
-Im am a small "dev" just doing things for the fun of it in my free time ^^ </br>
-trying to contribute to stuff i love. </br>
+In purely for the love of the game
 Proudly anti-ai
 
 Czech Translator for [SlimeVR](https://i18n.slimevr.dev/contributors/PGieDrpEdjyQq50Vh_Ju_oFHeks) and [Others](https://crowdin.com/profile/cheezik_)
 
-<sub>I might not know how to code, that wont stop me from helping with what i can. </sub>
 
  [![My Skills](https://skillicons.dev/icons?i=js,ts,svelte,sqlite,css,linux,arch)](https://skillicons.dev)
  
