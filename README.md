@@ -1,6 +1,6 @@
 # Cheeze
  
-*we all needs a bit of cheeziness in our lives dont we?*
+*we all needs a bit of cheeziness in our lives dont we?* <br>
 In purely for the love of the game
 Proudly anti-ai
 
