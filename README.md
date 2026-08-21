@@ -1,7 +1,8 @@
 # Cheeze
  
 *we all needs a bit of cheeziness in our lives dont we?* <br>
-In purely for the love of the game
+
+In purely for the love of the game <br>
 Proudly anti-ai
 
 Czech Translator for [SlimeVR](https://i18n.slimevr.dev/contributors/PGieDrpEdjyQq50Vh_Ju_oFHeks) and [Others](https://crowdin.com/profile/cheezik_)
